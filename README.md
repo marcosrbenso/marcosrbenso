@@ -7,7 +7,7 @@ I'm a Doctor in Hydraulics Engineering and Sanitation [Sao Carlos School of Engi
 I'm a postdoctoral researcher at the Federal University of São Carlos in Brazil.
 
 - 🔭 I’m currently working on short-term flood forecast and early warning systems
-- 💬 My areas of interests are in the fields of disasters triggered by climate extremes such as flood and droughts, disaster risk reduction, and multi-hazard risk impact analysis 
+- 💬 My areas of interests are in the fields of disasters triggered by climate extremes such as flood and droughts, disaster risk reduction, multi-hazard risk impact analysis, and data-driven methods
 
 <!--
 **marcosrbenso/marcosrbenso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
