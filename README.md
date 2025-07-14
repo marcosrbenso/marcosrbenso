@@ -1,25 +1,3 @@
-## Hi there 👋
-
-I'm a Doctor in Hydraulics Engineering and Sanitation [Sao Carlos School of Engineering / University of Sao Paulo - Brazil](https://eesc.usp.br/)
-
 ## Biography
+Professor of Data Science for Biosystems Engineering at USP/Esalq
 
-I'm a postdoctoral researcher at the Federal University of São Carlos in Brazil.
-
-- 🔭 I’m currently working on short-term flood forecast and early warning systems
-- 💬 My areas of interests are in the fields of disasters triggered by climate extremes such as flood and droughts, disaster risk reduction, multi-hazard risk impact analysis, and data-driven methods
-
-<!--
-**marcosrbenso/marcosrbenso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
